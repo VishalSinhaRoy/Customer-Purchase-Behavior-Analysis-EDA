@@ -42,16 +42,16 @@ This data was gathered during last year's campaign. Data description is as follo
 
 **Conclusion:**
 
-*  Online Spending: Customers visiting websites more frequently each month spend less money online, indicating issues preventing purchase completion (e.g., checkout process, UI).
+Online Spending: Customers visiting websites more frequently each month spend less money online, indicating issues preventing purchase completion (e.g., checkout process, UI).
 
-*  In-Store Purchases: A count plot shows consumer distribution based on in-store purchases to identify significant spending groups.
+In-Store Purchases: A count plot shows consumer distribution based on in-store purchases to identify significant spending groups.
 
-*  Improvement Focus: Enhance in-store experiences for customers with fewer transactions by introducing loyalty programs, incentives, or unique promotions.
+Improvement Focus: Enhance in-store experiences for customers with fewer transactions by introducing loyalty programs, incentives, or unique promotions.
 
-*  Loyalty Programs: High in-store purchasers often participate in loyalty programs, showing their effectiveness in customer retention.
+Loyalty Programs: High in-store purchasers often participate in loyalty programs, showing their effectiveness in customer retention.
 
-*  Bar Plot Analysis: The bar plot contrasts loyalty program response at different in-store purchase levels.
+Bar Plot Analysis: The bar plot contrasts loyalty program response at different in-store purchase levels.
 
-*  High-Value Customers: Identify high-value consumer categories and tailor marketing strategies to their needs and preferences.
+High-Value Customers: Identify high-value consumer categories and tailor marketing strategies to their needs and preferences.
 
-*  Communication Tactics: Adjust communication based on a thorough understanding of clients' family structures to meet diverse customer segment demands.
+Communication Tactics: Adjust communication based on a thorough understanding of clients' family structures to meet diverse customer segment demands.
