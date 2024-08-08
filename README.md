@@ -1,4 +1,4 @@
-# Customer-Purchase-Behavior-Analysis-EDA
+# Customer_Purchase_Behavior_Analysis - EDA
 
 **Objective:**
 
